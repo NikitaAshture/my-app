@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
+function App1() {
   return (
     <div className="App">
       <h1>Nikita</h1>
@@ -9,4 +9,4 @@ function App() {
   );
 }
 
-export default App;
+export default App1;
